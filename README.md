@@ -19,3 +19,5 @@ $ . env/bin/activate
 (env) pip install -r requirements.txt
 (env) streamlit run learn_jp.py
 ```
+# song_for_learn
+# song_for_learn
