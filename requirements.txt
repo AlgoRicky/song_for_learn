@@ -5,3 +5,4 @@ streamlit==1.45.0
 SudachiDict-core==20250129
 SudachiPy==0.6.10
 gTTS==2.5.4
+youtube-transcript-api==1.0.3
